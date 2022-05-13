@@ -1,12 +1,14 @@
 # Table of contents
 
-* [Introduction and version](README.md)
-  * [Changelog](introduction-and-version/changelog.md)
-  * [README](introduction-and-version/readme.md)
-* [About YourSpace](about-yourspace.md)
-* [Term and condination](term-and-condination.md)
+## Overview
 
-## Definition
+* [Welcome to metarve-talkspacevietnam](README.md)
+* [Introduction and version](overview/introduction-and-version/README.md)
+  * [Changelog](overview/introduction-and-version/changelog.md)
+  * [README](overview/introduction-and-version/readme.md)
+* [About YourSpace](overview/about-yourspace.md)
+
+## definition
 
 * [Smart contract definition](definition/smart-contract-definition.md)
 * [Non-fungible tokens (NFT)](definition/non-fungible-tokens-nft.md)
@@ -14,12 +16,9 @@
   * [Introducing the NFT License](definition/nft-license/introducing-the-nft-license.md)
   * [FAQ](definition/nft-license/faq.md)
   * [License](definition/nft-license/license.md)
+* [Term and condination](definition/term-and-condination.md)
 
-## Giudes
+## giudes
 
 * [Web 3.0 Introduction](giudes/web-3.0-introduction.md)
 * [Setting up a wallet with Crypto](giudes/setting-up-a-wallet-with-crypto.md)
-
-## Overview
-
-* [Page 1](overview/page-1.md)

@@ -3,7 +3,7 @@
 [![Contributors](https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/othneildrew/Best-README-Template/graphs/contributors) [![Forks](https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/othneildrew/Best-README-Template/network/members) [![Stargazers](https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/othneildrew/Best-README-Template/stargazers) [![Issues](https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/othneildrew/Best-README-Template/issues) [![MIT License](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge)](https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge\&logo=linkedin\&colorB=555)](https://linkedin.com/in/othneildrew)
 
 \
-[![Logo](../images/logo.png)](https://github.com/othneildrew/Best-README-Template)
+[![Logo](../../images/logo.png)](https://github.com/othneildrew/Best-README-Template)
 
 #### Best-README-Template
 
@@ -32,7 +32,7 @@ An awesome README template to jumpstart your projects!\
 
 ### About The Project
 
-[![Product Name Screen Shot](../images/screenshot.png)](https://example.com)
+[![Product Name Screen Shot](../../images/screenshot.png)](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
