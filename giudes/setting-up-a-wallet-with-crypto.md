@@ -34,7 +34,7 @@ Sign up for a Cryptocurrency Exchange like Coinbase or Binance. These are secure
 
 _Note: The process for verification on Coinbase can take up to 14 days._
 
-* Head to [www.coinbase.com](http://www.coinbase.com) and click “Get Started” to set up your account.
+* Head to [www.coinbase.com](http://www.coinbase.com/) and click “Get Started” to set up your account.
 * Set up your account, including verifying your identity.
 * Connect a debit card or bank account so that you can get verified and purchase ETH or Matic.
 * Once you’ve set up an account and your debit card or bank account have been verified, you can purchase ETH on Coinbase. (When you connect a debit card, you can buy ETH immediately. If you connect a bank account, you can also purchase ETH immediately but it can take up to 15 days for the balance to appear in your account.)
@@ -48,7 +48,7 @@ Coinbase will let you know when your ETH is available to send out, which can tak
 
 ![](broken-reference)
 
-**From the Coinbase website:** Now head back to [www.coinbase.com](http://www.coinbase.com), select “Portfolio,” and find “Ethereum.” Click “Send,” and paste in your Ethereum wallet address from MetaMask in the “To” field. Double-check that you pasted in the full 42-character wallet address, if you send crypto to the wrong address you will not be able to get it back. Click “Continue,” then “Confirm” to send your ETH, it should take a few minutes to transfer.
+**From the Coinbase website:** Now head back to [www.coinbase.com](http://www.coinbase.com/), select “Portfolio,” and find “Ethereum.” Click “Send,” and paste in your Ethereum wallet address from MetaMask in the “To” field. Double-check that you pasted in the full 42-character wallet address, if you send crypto to the wrong address you will not be able to get it back. Click “Continue,” then “Confirm” to send your ETH, it should take a few minutes to transfer.
 
 ![](broken-reference)
 

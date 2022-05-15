@@ -35,11 +35,11 @@ The NFT world is relatively new. In theory, the scope for NFTs is anything that 
 
 * [A unique digital artwork](https://foundation.app/artworks)
 * [A unique sneaker in a limited-run fashion line](https://www.metagrail.co/auctions/91cf83fb-3477-4155-aae8-6dcb9b853397)
-* [An in-game item](https://market.decentraland.org)
+* [An in-game item](https://market.decentraland.org/)
 * [An essay](https://zora.co/0x517bab7661C315C63C6465EEd1b4248e6f7FE183/145)
 * [A digital collectible](https://www.larvalabs.com/cryptopunks/details/1)
 * [A domain name](https://app.ens.domains/name/ethereum.eth)
-* [A ticket that gives you access to an event or a coupon](https://www.yellowheart.io)
+* [A ticket that gives you access to an event or a coupon](https://www.yellowheart.io/)
 
 #### ethereum.org examples <a href="#ethereum-org-examples" id="ethereum-org-examples"></a>
 
@@ -55,7 +55,7 @@ If you contribute to ethereum.org, you can claim a POAP NFT. These are collectib
 
 This website has an alternative domain name powered by NFTs, **ethereum.eth**. Our `.org` address is centrally managed by a domain name system (DNS) provider, whereas ethereum`.eth` is registered on Ethereum via the Ethereum Name Service (ENS). And its owned and managed by us. [Check our ENS record](https://app.ens.domains/name/ethereum.eth)
 
-[More on ENS](https://app.ens.domains)
+[More on ENS](https://app.ens.domains/)
 
 ### How do NFTs work? <a href="#how-nfts-work" id="how-nfts-work"></a>
 
@@ -120,7 +120,7 @@ In these cases, each NFT would still have a unique identifier (like a bar code o
 
 #### Royalties <a href="#royalties" id="royalties"></a>
 
-Some NFTs will automatically pay out royalties to their creators when they're sold. This is still a developing concept but it's one of the most powerful. Original owners of [EulerBeats Originals](https://eulerbeats.com) earn an 8% royalty every time the NFT is sold on. And some platforms, like [Foundation](https://foundation.app) and [Zora](https://zora.co), support royalties for their artists.
+Some NFTs will automatically pay out royalties to their creators when they're sold. This is still a developing concept but it's one of the most powerful. Original owners of [EulerBeats Originals](https://eulerbeats.com/) earn an 8% royalty every time the NFT is sold on. And some platforms, like [Foundation](https://foundation.app/) and [Zora](https://zora.co/), support royalties for their artists.
 
 This is completely automatic so creators can just sit back and earn royalties as their work is sold from person to person. At the moment, figuring out royalties is very manual and lacks accuracy – a lot of creators don't get paid what they deserve. If your NFT has a royalty programmed into it, you'll never miss out.
 
@@ -181,7 +181,7 @@ This works in a similar way to a website domain name which makes an IP address m
 Your ENS name can:
 
 * Receive cryptocurrency and other NFTs.
-* Point to a decentralized website, like [ethereum.eth](https://ethereum.eth.link). [More on decentralizing your website](https://docs.ipfs.io/how-to/websites-on-ipfs/link-a-domain/#domain-name-service-dns)
+* Point to a decentralized website, like [ethereum.eth](https://ethereum.eth.link/). [More on decentralizing your website](https://docs.ipfs.io/how-to/websites-on-ipfs/link-a-domain/#domain-name-service-dns)
 * Store any arbitrary information, including profile information like email addresses and Twitter handles.
 
 #### Physical items <a href="#nft-physical-items" id="nft-physical-items"></a>
@@ -214,8 +214,8 @@ NFT creators can also create "shares" for their NFT. This gives investors and fa
 
 This is still experimental but you can learn more about fractional NFT ownership at the following exchanges:
 
-* [NIFTEX](https://landing.niftex.com)
-* [NFTX](https://gallery.nftx.org)
+* [NIFTEX](https://landing.niftex.com/)
+* [NFTX](https://gallery.nftx.org/)
 
 In theory, this would unlock the possibility to do things like own a piece of a Picasso. You would become a shareholder in a Picasso NFT, meaning you would have a say in things like revenue sharing. It's very likely that one day soon owning a fraction of an NFT will enter you into a decentralised autonomous organisation (DAO) for managing that asset.
 
